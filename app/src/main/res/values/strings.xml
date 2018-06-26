@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Poker Pal</string>
+    <string name="practice_btn">Practice</string>
+    <string name="calculators_btn">Calculators</string>
 </resources>
