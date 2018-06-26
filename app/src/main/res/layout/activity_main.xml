@@ -20,11 +20,10 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <Button
-            android:id="@+id/calculator_btn"
+            android:id="@+id/learn_btn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="gotoCalculators"
-            android:text="@string/calculators_btn" />
+            android:text="@string/learn_btn" />
 
         <Button
             android:id="@+id/practice_btn"
@@ -32,6 +31,14 @@
             android:layout_height="wrap_content"
             android:onClick="gotoPractice"
             android:text="@string/practice_btn" />
+
+        <Button
+            android:id="@+id/calculator_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="gotoCalculators"
+            android:text="@string/calculators_btn" />
+
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

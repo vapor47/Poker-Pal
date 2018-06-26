@@ -2,4 +2,10 @@
     <string name="app_name">Poker Pal</string>
     <string name="practice_btn">Practice</string>
     <string name="calculators_btn">Calculators</string>
+    <string name="learn_btn">Learn</string>
+    <string name="expected_value_btn">Expected Value (EV)</string>
+    <string name="current_pot">Current Pot:</string>
+    <string name="bet_to_call">Bet To Call:</string>
+    <string name="percentage_of_winning">Percentage of winning (0 – 100):</string>
+    <string name="calculate">Calculate</string>
 </resources>

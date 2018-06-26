@@ -22,4 +22,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, CalculatorsMenuActivity.class);
         startActivity(intent);
     }
+
+    public void gotoLearn(View view){
+        Intent intent = new Intent(this, LearnMenuActivity.class);
+        startActivity(intent);
+    }
 }
