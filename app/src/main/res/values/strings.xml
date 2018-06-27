@@ -8,4 +8,6 @@
     <string name="bet_to_call">Bet To Call:</string>
     <string name="percentage_of_winning">Percentage of winning (0 – 100):</string>
     <string name="calculate">Calculate</string>
+    <string name="expected_value_text">Expected Value</string>
+    <string name="expected_value_answer">The expected value is</string>
 </resources>
