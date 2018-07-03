@@ -30,5 +30,12 @@ public class ExpectedValueCalculatorActivity extends AppCompatActivity {
         double EV = (win * pot) - ((1 - win) * bet);
         EVText.setText(String.format("$%.2f", EV));
     }
+    /*TODO
+    app crashes when calculating with some forms unfilled
+        put in prefilled values
+    for negative EV, put '-' in front of dollar sign like '-$1.00'
+    for percentage of winning, choose between current percentage or
+        have editText for number of outs and buttons for current street of play (flop,turn,river) and calculate percentage based on that
+     */
 
 }
