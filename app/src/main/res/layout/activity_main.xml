@@ -23,6 +23,7 @@
             android:id="@+id/learn_btn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="gotoLearn"
             android:text="@string/learn_btn" />
 
         <Button

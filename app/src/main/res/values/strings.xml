@@ -6,8 +6,12 @@
     <string name="expected_value_btn">Expected Value (EV)</string>
     <string name="current_pot">Current Pot:</string>
     <string name="bet_to_call">Bet To Call:</string>
-    <string name="percentage_of_winning">Percentage of winning (0 – 100):</string>
+    <string name="percentage_of_winning">Equity:</string>
     <string name="calculate">Calculate</string>
     <string name="expected_value_text">Expected Value</string>
     <string name="expected_value_answer">The expected value is</string>
+    <string name="hero_hand">Hero</string>
+    <string name="hand_equity">Hand Equity</string>
+    <string name="total_score_text">Total Score:</string>
+    <string name="outs_btn">Counting Outs</string>
 </resources>
