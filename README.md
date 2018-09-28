@@ -1,6 +1,7 @@
 # Poker-Smarts
-Android app to learn and practice certain poker skills(mostly mathematical, for now)
+An Android mobile app with quizzes and calculators for Texas Hold'em math/statistics.
 
 Current topics include:
+  Expected Value
   Pot Odds
   Equity
